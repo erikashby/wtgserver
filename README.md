@@ -7,7 +7,7 @@ Operating System: Raspian / Raspberry OS
 
 ### Folder structure
 
-    main applications /home/~name~/app/wgt-server
+    main applications /home/~name~/app/wtgserver
     data location /home/~name~/app/data
 
 ## Setup Activity:
@@ -20,12 +20,12 @@ Operating System: Raspian / Raspberry OS
 
 ## Setup git folder
     - from /home/~name~/app
-    - git clone "http://github.com/kodemeex/wgt-server"
+    - git clone "http://github.com/erikashby/wtgserver"
 
 ### Test git folder
 
-    - from /home/~name~/app/wgt-server
-    - git pull "https://github.com/kodemeex/wgt-server"
+    - from /home/~name~/app/wtgerver
+    - git pull "https://github.com/erikashby/wtgserver"
 
 ## Install PIP
     - in the terminal, type
